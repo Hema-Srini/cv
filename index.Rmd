@@ -1,6 +1,6 @@
 ---
-title: "Nick Strayer's CV"
-author: Nick Strayer
+title: "Hema's CV"
+author: Hema
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -53,7 +53,7 @@ Aside
 ```{r}
 # When in export mode the little dots are unaligned, so fix that. 
 if(PDF_EXPORT){
-  cat("View this CV online with links at _nickstrayer.me/cv_")
+  cat("View this CV online with links at https://hema-srini.github.io/cv/")
 } else {
   cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/nstrayer/cv/raw/master/strayer_cv.pdf)")
 }
@@ -63,11 +63,11 @@ Contact {#contact}
 --------------------------------------------------------------------------------
 
 
-- <i class="fa fa-envelope"></i> nick.strayer@gmail.com
-- <i class="fa fa-twitter"></i> NicholasStrayer
-- <i class="fa fa-github"></i> github.com/nstrayer
+- <i class="fa fa-envelope"></i> noemail@gmail.com
+- <i class="fa fa-twitter"></i> 
+- <i class="fa fa-github"></i> github.com/Hema-Srini
 - <i class="fa fa-link"></i> [nickstrayer.me](http://nickstrayer.me/)
-- <i class="fa fa-phone"></i> (734) 645-0110
+- <i class="fa fa-phone"></i> (000) 000-0000
 
 
 
@@ -78,20 +78,12 @@ Language Skills {#skills}
 skills <- tribble(
   ~skill,               ~level,
   "R",                  5,
-  "Javascript (d3.js)", 4.5,
-  "Python",             4,
-  "Bash",               3.5,
   "SQL",                3,
-  "C++",                3,
-  "AWK",                3
-)
+  "Operations",         5,
+  )
 
 build_skill_bars(skills)
 ```
-
-
-
-
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
