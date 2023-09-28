@@ -57,7 +57,7 @@ Contact {#contact}
 - <i class="fa fa-envelope"></i> noemail@gmail.com
 - <i class="fa fa-twitter"></i> Hema
 - <i class="fa fa-github"></i> github.com/Hema-Srini
-- <i class="fa fa-link"></i> [nickstrayer.me](http://nickstrayer.me/)
+- <i class="fa fa-link"></i> https://hema-srini.github.io/cv/
 - <i class="fa fa-phone"></i> (000) 000-0000
 
 
@@ -81,7 +81,7 @@ build_skill_bars(skills)
 Open Source Contributions {#open-source}
 --------------------------------------------------------------------------------
 
-All projects available at `github.com/nstrayer/<name>`
+All projects available at `https://hema-srini.github.io/cv/`
 
 
 - `shinysense`: R package to use sensor data in Shiny apps
@@ -92,7 +92,7 @@ All projects available at `github.com/nstrayer/<name>`
 More info {#more-info}
 --------------------------------------------------------------------------------
 
-See full CV at nickstrayer.me/cv for more complete list of positions and publications.
+See full CV at https://hema-srini.github.io/cv/ for more complete list of positions and publications.
 
 
 Disclaimer {#disclaimer}
