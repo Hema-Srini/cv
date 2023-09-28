@@ -114,7 +114,7 @@ Nick Strayer {#title}
 --------------------------------------------------------------------------------
 
 ```{r}
-I have worked in operations for  7 years inclugign banking security. Now, I am a student of MS PEDM @ASU  
+"I have worked in operations for  7 years inclugign banking security. Now, I am a student of MS PEDM @ASU  
 "
 
 
